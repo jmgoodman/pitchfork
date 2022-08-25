@@ -1,0 +1,1 @@
+this is where we should put submodules and various external libraries (dlls for windows, various copy-pasted hpps for non-GitHub projects).
